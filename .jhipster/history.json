@@ -11,5 +11,7 @@
     "serviceId" : "springboot-undertow"
   }, {
     "serviceId" : "frontend-maven-plugin"
+  }, {
+    "serviceId" : "github-actions"
   } ]
 }
