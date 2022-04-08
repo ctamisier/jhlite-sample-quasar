@@ -5,5 +5,7 @@
     "serviceId" : "maven-java"
   }, {
     "serviceId" : "java-base"
+  }, {
+    "serviceId" : "springboot"
   } ]
 }
