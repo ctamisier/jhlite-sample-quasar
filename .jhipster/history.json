@@ -7,5 +7,7 @@
     "serviceId" : "java-base"
   }, {
     "serviceId" : "springboot"
+  }, {
+    "serviceId" : "springboot-undertow"
   } ]
 }
