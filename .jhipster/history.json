@@ -9,5 +9,7 @@
     "serviceId" : "springboot"
   }, {
     "serviceId" : "springboot-undertow"
+  }, {
+    "serviceId" : "frontend-maven-plugin"
   } ]
 }
